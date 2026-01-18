@@ -34,9 +34,9 @@ npm run dev
 
 ## Project Views
 
-![](./project-views/kicks-desktop.png)
-![](./project-views/kicks-mobile.png)
-![](./project-views/kicks.gif)
+![](./frontend/project-views/kicks-desktop.png)
+![](./frontend/project-views/kicks-mobile.png)
+![](./frontend/project-views/kicks.gif)
 
 ## Licence
 
